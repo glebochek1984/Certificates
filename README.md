@@ -56,4 +56,4 @@
 
 ## Обучение ПСБ
 
-[Настройка шаблонов регулярных платежей]
+[Настройка шаблонов регулярных платежей](https://docs.google.com/document/d/1QEted8jtPkQXkYT54_Kk4hPpptJ8QlmL1KiloavBBYs/edit?tab=t.0)
